@@ -6,7 +6,7 @@
 <div >
 <img align="right" src="https://raw.githubusercontent.com/Khalifa1997/Khalifa1997/main/hi.gif" />
 
-- 🌱 I’m currently learning **Gatsby, Zustand, Chakra-UI**
+- 🌱 I’m currently learning **TRPC, Prisma, SupaBase**
 
 - 💬 Ask me about **React, Next.js, Vue, Redux, TS**
 
