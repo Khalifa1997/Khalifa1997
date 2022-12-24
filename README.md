@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TRPC, Prisma, SupaBase**
 
-- 💬 Ask me about **React, Next.js, Vue, Redux, TS**
+- 💬 Ask me about **Vue, React, Next.js, Vue, Redux, TS**
 
 - 📫 How to reach me **ahmed70000@gmail.com**
 
