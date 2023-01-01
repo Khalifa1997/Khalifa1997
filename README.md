@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-khalifa-246356118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-khalifa-246356118/" height="30" width="40" /></a>
-<a href="https://dev.to/khalifa1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khalifa1997" height="30" width="40" /></a>
 </p>
 <br/>
 <h3 align="center">Languages and Tools:</h3>
