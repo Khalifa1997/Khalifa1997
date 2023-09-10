@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ahmed70000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TU59bsq_RzG5e57Dqj2MSfalb7_Q2FtB/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wBmXbSiyXsTrgRNuAvZKzOQUMrmoQno9/view?usp=sharing)
 </div>
 
 <h3 align="left">Connect with me:</h3>
