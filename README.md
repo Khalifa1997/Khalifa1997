@@ -6,7 +6,7 @@
 <div >
 <img align="right" src="https://raw.githubusercontent.com/Khalifa1997/Khalifa1997/main/hi.gif" />
 
-- 🌱 I’m currently learning **TRPC, Prisma, SupaBase**
+- 🌱 I’m currently learning **Java, Spring boot**
 
 - 💬 Ask me about **Vue, React, Next.js, Vue, Redux, TS**
 
